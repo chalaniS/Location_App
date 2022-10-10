@@ -1,16 +1,2 @@
-# gps_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1665406304](https://user-images.githubusercontent.com/99180967/194870613-39129ba3-a6de-484f-a90f-e9e0bdb7e34f.png)
+![Screenshot_1665406325](https://user-images.githubusercontent.com/99180967/194870622-96bb96a5-d601-439b-bfe2-e12d70dc4064.png)
